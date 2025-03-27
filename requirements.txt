@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytest
+psutil
+GPUtil
+opencv-python
+moviepy
+rtmlib
+onnxruntime-gpu
+python-multipart
